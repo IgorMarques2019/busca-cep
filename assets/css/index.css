@@ -56,6 +56,8 @@ button:hover {
 
 .area-info p {
   border-bottom:1px solid #c5c5c5;
+  padding:5px 0px;
+  text-transform: uppercase;
 }
 
 .area-info p+p {
